@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 
 # First we copy the directory where we store all the data
-path_data = r"C:\Money\DATA_SCIENCE_Course\Git\pdsnd_github\"
+#path_data = r"C:\DATA_SCIENCE_Course\Git\pdsnd_github\"
 # Change directory to the path_data
-os.chdir(path_data)
+#os.chdir(path_data)
 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
