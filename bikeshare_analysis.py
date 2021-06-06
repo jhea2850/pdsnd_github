@@ -2,10 +2,9 @@ import os,time
 import pandas as pd
 import numpy as np
 
-# First we copy the directory where we store all the data
-path_data = r"C:\Money\DATA_SCIENCE_Course\Git\pdsnd_github\"
+#path_data = r"C:\Money\DATA_SCIENCE_Course\Git\pdsnd_github\"
 # Change directory to the path_data
-os.chdir(path_data)
+#os.chdir(path_data)
 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
@@ -63,7 +62,7 @@ def get_filters():
             print("\nRestarting...")
     print(f"\nYou have chosen {day.title()} as your day.")
 
-    print(f"\nYou have chosen to view data for city: {city.upper()}, month/s: {month.upper()} and day/s: {day.upper()}.")
+    print(f"\nYou have chosen to view data for the city: {city.upper()}, month/s: {month.upper()} and day/s: {day.upper()}.")
     print('-'*80)
     #Returning the city, month and day selections
     return city, month, day
