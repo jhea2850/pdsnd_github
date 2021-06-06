@@ -1,4 +1,4 @@
-#Description: Bikeshare project used for project
+#Description: Bikeshare project used for course
 import os,time
 import pandas as pd
 import numpy as np
