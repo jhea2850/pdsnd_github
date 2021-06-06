@@ -4,7 +4,7 @@
 06/06/2021
 
 ### Project Title
-Bike Share project
+Bike Share Project
 
 ### Description
 Analyse the bike share system in three cities including Chicago, New York City and Washington.
