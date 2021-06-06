@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 #Title: Analyse bike share data in cities
+||||||| cdb7100
+import os,time
+=======
+#Description: Bikeshare project used for course
+import os,time
+>>>>>>> refactoring
 import pandas as pd
 import numpy as np
 
