@@ -1,9 +1,9 @@
-import os,time
+#Title: Analyse bike share data in cities
 import pandas as pd
 import numpy as np
 
 # First we copy the directory where we store all the data
-path_data = r"M:\themes\wetlands\EFlowMonitoring\zw_landscapes\zz_users\Iris\For Jess\bikeshare-2"
+#path_data = r"C:\DATA_SCIENCE_Course\Git\pdsnd_github\"
 # Change directory to the path_data
 os.chdir(path_data)
 
